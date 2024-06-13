@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS products (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    price DECIMAL(10, 2),
+    quantity INT
+);

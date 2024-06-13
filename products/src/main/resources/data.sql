@@ -1,0 +1,10 @@
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);
+INSERT INTO products (price, quantity) VALUES (ROUND(RAND() * 1000, 2), FLOOR(RAND() * 100) + 1);

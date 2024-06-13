@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "adminweb"
+		},
+		{
+			"path": "aws"
+		},
+		{
+			"path": "bash"
+		},
+		{
+			"path": "orders"
+		},
+		{
+			"path": "k8s"
+		},		
+		{
+			"path": "payments"
+		},
+		{
+			"path": "products"
+		},
+		{
+			"path": "api"
+		}		
+	],
+	"settings": {
+		"java.jdt.ls.java.home": "C:\\Program Files\\Microsoft\\jdk-21.0.0.35-hotspot",
+		"java.configuration.runtimes": [
+		  {
+			"name": "JavaSE-21",
+			"path": "C:\\Program Files\\Microsoft\\jdk-21.0.0.35-hotspot",
+			"default": true
+		  }
+		],
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
